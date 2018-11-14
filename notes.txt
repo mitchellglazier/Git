@@ -1,0 +1,21 @@
+Git / github
+
+Github - online place where you can store your code,
+store versions of your code
+
+Git - language that helps us communicate with Github, control version
+history. created in 2005 by linux Torvalds.
+
+Github alternatives are bitbucket and phabricator
+
+
+Repos
+- pushing these to github
+- each project is a Repo
+
+THINGS NOT TO DO!!!
+-SYSTEM DIRECTORIES INTO REPOSITORIES (EX DESKTOP, DOCUMENTS, DOWNLOADS, PICTURES
+-NOT MAKE A DEPOSITORY INSIDE OF ANOTHER DEPOSITORY
+
+-TO SOLVE PROBLEMS ^ OR GET RID OF A Repo
+    * DELETE THE .git/ FOLDER
