@@ -19,3 +19,32 @@ THINGS NOT TO DO!!!
 
 -TO SOLVE PROBLEMS ^ OR GET RID OF A Repo
     * DELETE THE .git/ FOLDER
+
+
+
+RECAP of git/github process
+
+#initialize a git Repo - only once per project
+  git init
+
+#after you coded something, as good stoping point
+  git add .
+
+#this labels your progress, your code versions
+  git commit -m "input what you did here"
+
+#can do one of two THINGS
+#you can keep coding and then repeat adding and commiting
+
+#If you are ready to push to Github
+#go into github, and create a new Repo- only once per project
+#we will copy the ssh url- only once per project
+ git remote add origin *paste the ssh url here*
+
+#push to Github
+  git push origin master
+
+#continuing coding and continue pushing to Github
+ git add .
+ git commit -m "message"
+ git push origin master
